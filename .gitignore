@@ -1,0 +1,8 @@
+#envariment
+.env
+
+#node
+node_modules
+
+# pruducion
+dist
